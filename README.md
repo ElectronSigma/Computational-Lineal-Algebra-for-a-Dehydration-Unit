@@ -6,7 +6,7 @@ This script solves steady-state mass balance problems for a multicomponent separ
 To algorithmically solve $A \cdot X = B$ matrix equations for chemical engineering mass balances, ensuring system solvability and high-precision numerical outputs.
 
 ## Technical Stack
-*   **Language:** Python 3.x
+*   **Language:** Python 3.8
 *   **Libraries:** `numpy` (`numpy.linalg.solve`, `numpy.linalg.det`).
 
 ## Methodology
